@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Planning guidance for agents
+    url: https://github.com/your-org/agentic-project-template/blob/main/docs/ISSUE_WORKFLOW.md
+    about: Read how to structure issues and comments so agents inherit the right context.
