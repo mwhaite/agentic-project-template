@@ -13,6 +13,7 @@ This directory contains project documentation templates for quickly bootstrappin
 - **ONBOARDING_CHECKLIST.md** - Sequential steps to bootstrap a new fork using the agentic workflow.
 - **ISSUE_WORKFLOW.md** - How to use GitHub issues/comments to pass context between agents.
 - **reference/** - Curated code snippets, API references, and third-party data notes for quick reuse.
+- **prompts/** - Reusable prompt starters for planning, working sessions that execute checklists, triage, and other collaborative workflows.
 
 ## For AI Agents
 When generating documentation:
