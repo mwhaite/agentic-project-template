@@ -1,1 +1,2 @@
-# TODO: add Python dependencies
+# Core agent framework
+crewai>=0.61.0

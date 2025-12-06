@@ -7,8 +7,9 @@ Minimal base project template for agentic systems with guiding documents and boo
 2. Fill in `.agentic/PROJECT_CONTEXT.md` with project-specific details.
 3. Walk through `docs/ONBOARDING_CHECKLIST.md` step by step to bootstrap your fork.
 4. Use `.agentic/BOOTSTRAP.md` as the prompt sequence for agentic assistants.
-5. Use the GitHub issue templates to capture feature requests and planning context for agents (`docs/ISSUE_WORKFLOW.md`).
-6. Populate the documentation templates in `docs/` (design overview, architecture, API, setup, deployment, troubleshooting, examples) as you define the project.
+5. Spin up the crew defined in `.agentic/CREW_BOOTSTRAP.md` to automate forking, discovery, and scaffolding (`python scripts/bootstrapping_crew.py --project-name "My Project" --template-repo org/repo`).
+6. Use the GitHub issue templates to capture feature requests and planning context for agents (`docs/ISSUE_WORKFLOW.md`).
+7. Populate the documentation templates in `docs/` (design overview, architecture, API, setup, deployment, troubleshooting, examples) as you define the project.
 
 ## Repository Scaffolding
 - `src/`: Application source code. Organize modules by domain or feature to keep changes atomic.
